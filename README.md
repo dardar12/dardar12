@@ -1,4 +1,4 @@
-# Hi , I'm a Mobile Application Developer 👋
+# Hi , I'm a Mobile Developer 👋
 
 Mobile Application Developer specializing in cross-platform engineering with Flutter and Dart. Focused on building secure, performant, and maintainable applications using modern architectural standards.
 
@@ -32,7 +32,7 @@ Mobile Application Developer specializing in cross-platform engineering with Flu
 <p align="left">
   <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge" alt="Clean Architecture" />
   <img src="https://img.shields.io/badge/MVVM-000000?style=for-the-badge" alt="MVVM" />
-  <img src="https://img.shields.io/badge/Feature--First-000000?style=for-the-badge" alt="Feature-First" />
+  
 </p>
 
 ### Backend, Cloud & Security
