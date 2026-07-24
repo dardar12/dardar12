@@ -1,4 +1,4 @@
-# Hi there, I'm a Mobile Application Developer 👋
+# Hi , I'm a Mobile Application Developer 👋
 
 Mobile Application Developer specializing in cross-platform engineering with Flutter and Dart. Focused on building secure, performant, and maintainable applications using modern architectural standards.
 
@@ -8,7 +8,7 @@ Mobile Application Developer specializing in cross-platform engineering with Flu
 
 * **Flutter Engineering:** Scalable architecture with Clean Architecture, MVVM, and Riverpod.
 * **Mobile Security:** Elliptic Curve Cryptography (ECC), secure local key storage, and custom WebViews.
-* **DevOps & CI/CD:** iOS code signing, Xcode certs, APNs, TestFlight, and Firebase App Distribution.
+* **DevOps & CI/CD:** iOS code signing, Xcode, TestFlight, and Firebase App Distribution.
 * **App Publishing:** End-to-end deployment to Apple App Store & Google Play Store.
 * **UI/UX Implementation:** Pixel-perfect translation of Figma design systems into Flutter.
 
@@ -58,11 +58,11 @@ Mobile Application Developer specializing in cross-platform engineering with Flu
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:dardarnyein3@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" height="36" alt="Email" />
+  <a href="mailto:dardarnyein3@gmail.com" target="_blank" title="Email Me">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/dardar12" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="36" height="36" alt="GitHub" />
+  <a href="https://github.com/dardar12" target="_blank" title="GitHub Profile">
+    <img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" />
   </a>
 </p>
