@@ -39,7 +39,7 @@ Mobile Application Developer specializing in cross-platform engineering with Flu
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/ECC_Cryptography-000000?style=for-the-badge" alt="Cryptography" />
+  <img src="https://img.shields.io/badge/OAuth_2.0_&_JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Auth" />
 </p>
 
 ### DevOps, IDEs & Tools
