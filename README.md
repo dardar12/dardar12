@@ -1,5 +1,7 @@
 # Hi , I'm a Mobile Developer 👋
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dardar12&label=Profile%20Views&color=02569B&style=for-the-badge" alt="Profile Views" />
+</p>
 Mobile Application Developer specializing in cross-platform engineering with Flutter and Dart. Focused on building secure, performant, and maintainable applications using modern architectural standards.
 
 ---
