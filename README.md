@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Mobile%20Dev!%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.profilecounter.com/github-stats?username=dardar12&color=ff69b4&style=flat-square" alt="Visitor Count">
+</p>
+
 # Hi , I'm a Mobile Developer 👋
 
 Mobile Application Developer specializing in cross-platform engineering with Flutter and Dart. Focused on building secure, performant, and maintainable applications using modern architectural standards.
@@ -19,7 +27,6 @@ Mobile Application Developer specializing in cross-platform engineering with Flu
 ### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-
 </p>
 
 ### Frameworks & State Management
@@ -32,7 +39,6 @@ Mobile Application Developer specializing in cross-platform engineering with Flu
 <p align="left">
   <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge" alt="Clean Architecture" />
   <img src="https://img.shields.io/badge/MVVM-000000?style=for-the-badge" alt="MVVM" />
-  
 </p>
 
 ### Backend, Cloud & Security
