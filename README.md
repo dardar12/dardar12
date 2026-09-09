@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Mobile%20Dev!%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.profilecounter.com/github-stats?username=dardar12&color=ff69b4&style=flat-square" alt="Visitor Count">
-</p>
 
 # Hi , I'm a Mobile Developer 👋
 
