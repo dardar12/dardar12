@@ -27,8 +27,8 @@ Mobile Application Developer specializing in cross-platform engineering with Flu
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
-
 ### Architecture & Concepts
 <p align="left">
   <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge" alt="Clean Architecture" />
