@@ -21,6 +21,7 @@ Mobile Application Developer specializing in cross-platform engineering with Flu
 ### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 ### Frameworks & State Management
